@@ -11,3 +11,5 @@ TELEGRAM DEVELOPMENT CODE
 5)HIDING THE STATUS CODE
 
 6)video call code
+
+7)Audio call code
